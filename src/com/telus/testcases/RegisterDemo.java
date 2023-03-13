@@ -21,7 +21,7 @@ import com.telus.utilities.ExcelUtility;
 
 
 // 10th March 2023 - Code is updated by Rahul - Added the sysout message 
-// 13th March 2023 - Vinoth Added the code - Updated the sysout message
+// 13th March 2023 - Vinoth R Added the code - Updated the sysout message
 
 public class RegisterDemo {
 
