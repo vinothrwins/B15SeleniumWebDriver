@@ -21,6 +21,7 @@ import com.telus.utilities.ExcelUtility;
 
 
 // 10th March 2023 - Code is updated by Rahul - Added the sysout message 
+// 13th March 2023 - Vinoth Added the code - Updated the sysout message
 
 public class RegisterDemo {
 
@@ -101,7 +102,7 @@ public class RegisterDemo {
 			// To Create Driver Object in Driver Interface
 			WebDriver driver = new ChromeDriver();
 
-			System.out.println("Execution started");
+			System.out.println("Execution started using Github Concept");
 			
 			// Implicit Wait 
 			driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
